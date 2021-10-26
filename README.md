@@ -24,7 +24,7 @@ zod小导演是可以自动操作的小工具。解放双手，成就你的梦�
 
 反馈  
 
-* [ZODGAME]()
+* [ZODGAME](https://zodgame.xyz/forum.php?mod=viewthread&tid=333127&extra=)
 
 更新日志
 
@@ -33,5 +33,5 @@ zod小导演是可以自动操作的小工具。解放双手，成就你的梦�
 
 项目地址（要脸,不要给星,想研究代码的下载）
 
-* [Github]()
+* [Github](https://github.com/Gaoyongxian666/Zod_director)
 

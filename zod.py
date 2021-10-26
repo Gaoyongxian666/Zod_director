@@ -1063,4 +1063,4 @@ if __name__ == "__main__":
                        width_adjust=10,
                        higth_adjust=5)
 
-# pyinstaller -F -i "C:\Users\Gao yongxian\PycharmProjects\Auto_HS2\pack\favicon.ico" "C:\Users\Gao yongxian\PycharmProjects\Auto_HS2\zod.py" -w
+# pyinstaller -F -i "C:\Users\Gao yongxian\PycharmProjects\Zod_director\pack\favicon.ico" "C:\Users\Gao yongxian\PycharmProjects\Zod_director\zod.py" -w
